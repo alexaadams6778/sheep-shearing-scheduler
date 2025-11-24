@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# macOS
+.DS_Store
+
+# IntelliJ / other IDEs (just in case)
+.idea/
+*.iml
+
+# Java
+*.class
+
+# log files
+*.log
